@@ -9,7 +9,7 @@ name: Lê Trung Đô
 description: Web thử nghiệm
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/logo.jpg
+avatar: https://raw.githubusercontent.com/letrungdo/letrungdo.github.io/master/images/logo.jpg
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/lo
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: letrdo@gmail.com
+  email: 
   facebook: DoLTD
   flickr:
   github: letrungdo
