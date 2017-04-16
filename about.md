@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Real name: Lê Trung Đô | Height: 1.67m, Weight: 55kg | Blood type: AB | Sport: Taekwondo ♥
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+https://www.facebook.com/DoLTD
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[letrdo@gmail.com](mailto:letrdo@gmail.com)
