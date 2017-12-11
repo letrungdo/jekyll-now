@@ -4,7 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Real name: Lê Trung Đô | Height: 1.67m, Weight: 55kg | Blood type: AB | Sport: Taekwondo ♥
+Real name: Lê Trung Đô
+Height: 1.67m, Weight: 55kg
+Blood type: AB, Sport: Taekwondo ♥
+
+### Website
+[https://tđ.vn](https://xn--t-lia.vn)
+
 
 ### More Information
 
